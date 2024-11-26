@@ -1,0 +1,1466 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>         <html lang="en-US" class="lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en-US">
+    <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <title>404 - Page Not Found - Staff Hub</title>
+        <script>
+            dataLayer = [{
+                'schoolDomain': 'staffhub.portlandschools.org'
+            }];
+            dataLayer.push({
+                'uaID': 'UA-113714528-1'
+            });
+            dataLayer.push({
+                'measurementID-GA4': 'G-WPLNCFNNKD'
+            });
+
+            dataLayer.push({
+                'gaEventCategory': '404 Response',
+                'gaEventAction': '/fs/auth/checkauthtype',
+                'gaEventLabel': document.referrer,
+                'event': '404error'
+            });
+
+            (function() {
+                var gaTest = setInterval(function() {
+                    if (window.ga) {
+                        clearInterval(gaTest);
+                        ga('create', 'UA-113714528-1');
+                        ga('send', 'pageview', '/Page Not Found/staffhub.portlandschools.org/fs/auth/checkauthtype');
+                    }
+                }, 10);
+            }
+            )();
+        </script>
+        <script>
+            (function(w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(),
+                    event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0]
+                  , j = d.createElement(s)
+                  , dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            }
+            )(window, document, 'script', 'dataLayer', 'GTM-P3BGC7');
+        </script>
+        <link rel="icon" href="/uploaded/favicon_portlandschoolsorg.ico">
+        <meta name="description" content="404 - Page Not Found - Staff Hub">
+        <meta name="keywords" content="404 - Page Not Found, Staff Hub">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta property="og:description" content="404 - Page Not Found - Staff Hub">
+        <meta property="og:title" content="404 - Page Not Found - Staff Hub">
+        <meta property="og:type" content="website">
+        <link rel="stylesheet" media="all" href="/assets/application-251b14fb434038a369f1798dc140b64942d46549f2d2b027b82f2e0b47456bd2.css"/>
+        <link href="/styles.cfm?b" media="screen" rel="stylesheet">
+        <style id="fsHSLColors">
+            :root {
+            }
+        </style>
+        <link rel="stylesheet" media="all" href="/uploaded/themes/default_22/StaffHub.css?1725644295"/>
+        <script src="/assets/in_layout_head2-73f5b703a9352363cd8c423e976eae1fa1c206d1e456d555def0817fedae4217.js"></script>
+        <script type="text/javascript">
+            document.getElementsByTagName('html')[0].className = document.getElementsByTagName('html')[0].className + ' wf-loading'
+        </script>
+        <meta name="format-detection" content="telephone=no">
+        <script type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
+        <script>
+            Weglot.initialize({
+                api_key: 'wg_e0a4af1586bf4ed7da14dbada3c61f284'
+            });
+        </script>
+        <script type="text/javascript">
+            (function(window) {
+                window.FS.currentPage = {
+                    dateFormat: 'md',
+                    homepageVideoOptimization: true,
+                    timeFormat: '12'
+                };
+                const settings = FS.getNS('settings');
+                settings.styleManagerEnabled = false;
+                settings.calendarsEnabled = false;
+            }
+            )(window);
+        </script>
+    </head>
+    <body data-logged-in="false" data-pageid="3685" data-lazy-load-media="false" data-resource-optimizations="true" class="fsLiveMode fsHasHeader fsHasMenu fsHasFooter fsHasOneColumnLayout fsSection3685 fsLocation30 fsHasTheme21">
+        <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-P3BGC7" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <a id="fsSkipToMainContentLink" href="#fsPageContent">Skip To Main Content</a>
+        <div id="fsPageWrapper">
+            <div id="fsMenu">
+                <div class=" fsMenu fsStyleAutoclear" id="fsEl_493" data-settings-id="496" data-use-new="true">
+                    <section class="fsElement fsContent mobile-close" id="fsEl_4849" data-use-new="true">
+                        <header>
+                            <h2 class="fsElementTitle">Close trigger menu ( Don't delete )</h2>
+                        </header>
+                        <div class="fsElementContent"></div>
+                    </section>
+                    <section class="fsElement fsContainer search--icons--container" id="fsEl_4850" data-use-new="true">
+                        <header>
+                            <h2 class="fsElementTitle">Find It Fast</h2>
+                            <div class="fsElementHeaderContent">
+                                <div>
+                                    <button class="mobile-search-trigger" type="button" value="Find It Fast">Find it Fast</button>
+                                </div>
+                            </div>
+                        </header>
+                        <div class="fsElementContent">
+                            <section class="fsElement fsSearchElement fsSearchForm mobile--search" id="fsEl_4854">
+                                <header>
+                                    <h2 class="fsElementTitle">Search</h2>
+                                </header>
+                                <div class="fsElementContent">
+                                    <form action="https://staffhub.portlandschools.org/search-results" method="get" novalidate="novalidate">
+                                        <label class="fsFieldLabel" for="fsSearchInput_4854">Search</label>
+                                        <div class="fsSearchElementKeyword">
+                                            <input class="fsStyleSearchField fsStyleDefaultField" id="fsSearchInput_4854" name="q" placeholder="What Are You Looking For?" type="text">
+                                            <button aria-label="Clear" class="fsButtonClear fsStateHidden" type="reset">
+                                                <span>Clear</span>
+                                            </button>
+                                        </div>
+                                        <button class="fsSearchElementSearchButton fsStyleUpdateButton" type="submit">Search</button>
+                                    </form>
+                                </div>
+                            </section>
+                            <section class="fsElement fsNavigation fsList mobile--icons--nav" id="fsEl_4855" data-use-new="true">
+                                <header>
+                                    <h2 class="fsElementTitle">Mobile Icons Navs</h2>
+                                </header>
+                                <div class="fsElementContent">
+                                    <nav>
+                                        <ul class="fsNavLevel1">
+                                            <li class="icon-check">
+                                                <a href="https://www.portlandschools.org/staff/adp">ADP Workforce Now</a>
+                                            </li>
+                                            <li class="icon-teacher">
+                                                <a href="https://ic.portlandschools.org/campus/portland.jsp" target="_blank">
+                                                    Infinite Campus<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                </a>
+                                            </li>
+                                            <li class="icon-screens">
+                                                <a href="https://help.portlandschools.org/" target="_blank">
+                                                    HelpDesk Ticket System<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                </a>
+                                            </li>
+                                            <li class="icon-certificate">
+                                                <a href="/tech-resources/staff-applications/vector">Vector - PD Training</a>
+                                            </li>
+                                            <li class="icon-time">
+                                                <a href="https://www.frontlineeducation.com/signin/" target="_blank">
+                                                    Absence &amp;Time<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                </a>
+                                            </li>
+                                            <li class="icon-bullhorn">
+                                                <a href="/department/communications/newsletter-staff-bulletin-news-submission-form">Newsletter &amp;Staff Bulletin Submission Form</a>
+                                            </li>
+                                            <li class="icon-list">
+                                                <a href="https://www.portlandschools.org/about/strategic-plan">Strategic Plan</a>
+                                            </li>
+                                            <li class="icon-group-coed">
+                                                <a href="https://www.portlandschools.org/department/human-resources/employment">Job Opportunities </a>
+                                            </li>
+                                            <li class="icon-files">
+                                                <a href="https://www.portlandschools.org/department/human-resources/collective-bargaining-agreements">Collective Bargaining Agreements</a>
+                                            </li>
+                                            <li class="icon-globe">
+                                                <a href="https://drive.google.com/drive/folders/1xV1xgXEMLMRgAthZhCVHFZ-MED_vMWS-?usp=sharing" target="_blank">
+                                                    Translation Library<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </section>
+                        </div>
+                    </section>
+                    <section class="fsElement fsNavigation fsList mobile--main--nav" id="fsEl_4851" data-use-new="true">
+                        <header>
+                            <h2 class="fsElementTitle">Main Navigation</h2>
+                        </header>
+                        <div class="fsElementContent">
+                            <nav>
+                                <ul class="fsNavLevel1">
+                                    <li class="fsNavParentPage">
+                                        <a href="/hr-resources">HR</a>
+                                        <div class="fsNavPageInfo">
+                                            <ul class="fsNavLevel2">
+                                                <li class="fsNavParentPage">
+                                                    <a href="/hr-resources/benefits-leaves">Benefits &amp;Leaves</a>
+                                                    <div class="fsNavPageInfo">
+                                                        <ul class="fsNavLevel3">
+                                                            <li>
+                                                                <a href="/hr-resources/benefits-leaves/leave-of-absence-information">Leave of Absence Information</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/hr-resources/benefits-leaves/employee-assistance-program">Employee Assistance Program</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </li>
+                                                <li class="fsNavParentPage">
+                                                    <a href="/hr-resources/career-resources">Career Resources</a>
+                                                    <div class="fsNavPageInfo">
+                                                        <ul class="fsNavLevel3">
+                                                            <li>
+                                                                <a href="https://www.applitrack.com/portlandschools/onlineapp/default.aspx?all=1" target="_blank">
+                                                                    Job Listings<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/hr-resources/career-resources/course-reimbursement">Course Reimbursement</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/hr-resources/career-resources/criminal-history-record-check-chrc-process">Criminal History Record Check (CHRC) Process</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="https://www.plbss.org/login.aspx?ReturnUrl=%2f" target="_blank">
+                                                                    Professional Learning Base Salary System<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <a href="/hr-resources/new-hire-resources">New Hire Resources</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/hr-resources/forms-applications">Forms &amp;Applications</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/hr-resources/collective-bargaining-agreements">Collective Bargaining Agreements &amp;MOUs</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="fsNavParentPage">
+                                        <a href="/operating-procedures">Operating Procedures</a>
+                                        <div class="fsNavPageInfo">
+                                            <ul class="fsNavLevel2">
+                                                <li>
+                                                    <a href="/operating-procedures/communications-partnership-procedures">Communications &amp;Family/Community Partnership Procedures</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/operating-procedures/enrollment-procedures">Enrollment Procedures</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/operating-procedures/facilities-procedures">Facilities Procedures</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/operating-procedures/finance">Finance Procedures</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/operating-procedures/hr">HR Procedures</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/operating-procedures/technology">Technology Procedures</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/operating-procedures/transportation">Transportation Procedures</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="fsNavParentPage">
+                                        <a href="/tech-resources">Tech Resources</a>
+                                        <div class="fsNavPageInfo">
+                                            <ul class="fsNavLevel2">
+                                                <li>
+                                                    <a href="https://help.portlandschools.org/" target="_blank">
+                                                        IT HelpDesk<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="http://ppshelpdesk.portlandschools.org:8080/ehelpdesk/login.glml" target="_blank">
+                                                        Central Reg, Interpreters &amp;TV3<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://selfhelp.portlandschools.org/https://selfhelp.portlandschools.org/" target="_blank">
+                                                        Self Help Portal<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="/tech-resources/password-portal">Change/Setup Password</a>
+                                                </li>
+                                                <li class="fsNavParentPage">
+                                                    <a href="/tech-resources/staff-applications">Staff Applications</a>
+                                                    <div class="fsNavPageInfo">
+                                                        <ul class="fsNavLevel3">
+                                                            <li class="fsNavParentPage">
+                                                                <a href="/tech-resources/staff-applications/google-workspace">Google Workspace</a>
+                                                                <div class="fsNavPageInfo">
+                                                                    <ul class="fsNavLevel4">
+                                                                        <li>
+                                                                            <a href="/tech-resources/staff-applications/google-workspace/google-classroom">Google Classroom Resources</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/tech-resources/staff-applications/canva">Canva</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/tech-resources/staff-applications/clever">Clever</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/tech-resources/staff-applications/epic">Epic</a>
+                                                            </li>
+                                                            <li class="fsNavParentPage">
+                                                                <a href="/tech-resources/staff-applications/generative-ai">Generative AI</a>
+                                                                <div class="fsNavPageInfo">
+                                                                    <ul class="fsNavLevel4">
+                                                                        <li>
+                                                                            <a href="/tech-resources/staff-applications/generative-ai/ai-lessons-and-tools">AI Lessons and Tools</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </div>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/tech-resources/staff-applications/reachmyteach">ReachMyTeach</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/tech-resources/staff-applications/vector">Vector - PD Tracking</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/tech-resources/staff-applications/virtru">Virtru Email Encryption</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <a href="/tech-resources/software-catalog">Software Catalog</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/tech-resources/student-data-privacy">Student Data Privacy</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="fsNavParentPage">
+                                        <a href="/news-calendars">News/Calendars</a>
+                                        <div class="fsNavPageInfo">
+                                            <ul class="fsNavLevel2">
+                                                <li>
+                                                    <a href="/news-calendars">District News</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/news-calendars/district-calendar">2024-2025 District Calendar</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/calendars/board-of-education-calendar">Board of Education Calendar</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/calendars/pps-community-newsletter">PPS Community Newsletter</a>
+                                                </li>
+                                                <li class="fsNavParentPage">
+                                                    <a href="/news-calendars/staff-bulletin">Staff Bulletin</a>
+                                                    <div class="fsNavPageInfo">
+                                                        <ul class="fsNavLevel3">
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/november-19-2024">November 19, 2024</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/october-15-2024">October 15, 2024</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/september-17-2024">September 17, 2024</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/august-20-2024">August 20, 2024</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/may-21-2024">May 21, 2024</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/april-23-2024">April 23, 2024</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/march-19-2024">March 19, 2024</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/february-27-2024">February 27, 2024</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/january-19-2024">January 16, 2024</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/december-19-2023">December 19, 2023</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/november-21-2023">November 21, 2023</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/november-16-2023">November 16, 2023</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/october-17-2023">October 17, 2023</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/september-12-2023">September 12, 2023</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/news-calendars/staff-bulletin/august-28-2023">August 28, 2023</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="fsNavParentPage">
+                                        <a href="/department">Resources by Dpt</a>
+                                        <div class="fsNavPageInfo">
+                                            <ul class="fsNavLevel2">
+                                                <li class="fsNavParentPage">
+                                                    <a href="/department/communications">Communications</a>
+                                                    <div class="fsNavPageInfo">
+                                                        <ul class="fsNavLevel3">
+                                                            <li>
+                                                                <a href="/department/communications/communications-handbook">Communications Handbook</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/department/communications/branding-guidelines">Branding Guidelines</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/department/communications/newsletter-staff-bulletin-news-submission-form">Newsletter, Staff Bulletin &amp;News Submission Form</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/department/communications/community-event-request-form">Community Event Request Form</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/department/communications/student-spotlight-form">Student Spotlight Form</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/department/communications/how-to-choose-the-right-communication-tool">How to Choose the Right Communication Tool</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/department/communications/website-issues-request">Website Issues &amp;Request</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <a href="/department/facilities-maintenance">Facilities &amp;Maintenance</a>
+                                                </li>
+                                                <li class="fsNavParentPage">
+                                                    <a href="/department/mlc">Multilingual &amp;Multicultural Center</a>
+                                                    <div class="fsNavPageInfo">
+                                                        <ul class="fsNavLevel3">
+                                                            <li>
+                                                                <a href="/department/mlc/language-access">Language Access</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </li>
+                                                <li class="fsNavParentPage">
+                                                    <a href="/department/payroll">Payroll</a>
+                                                    <div class="fsNavPageInfo">
+                                                        <ul class="fsNavLevel3">
+                                                            <li>
+                                                                <a href="/department/payroll/hr-resources/payroll/adp">ADP Workforce Now</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="https://www.portlandschools.org/staff/adp/faqs-instructions">FAQs &amp;Instructions</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="https://clickdd.portlandmaine.gov/essprodschool/login.aspx" target="_blank">
+                                                                    Employee Self-Service (EAC)<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/department/payroll/frontline">Frontline</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="https://drive.google.com/file/d/1vY6ZZzLiL8ZxvuM1sP6qCGnZiPedvS4Y/view?usp=sharing" target="_blank">
+                                                                    Direct Deposit Form<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </li>
+                                                <li class="fsNavParentPage">
+                                                    <a href="/department/social-work">Social Work</a>
+                                                    <div class="fsNavPageInfo">
+                                                        <ul class="fsNavLevel3">
+                                                            <li>
+                                                                <a href="/department/social-work/social-worker-vs-counselor-vs-psychologist">Social Worker vs. Counselor vs. Psychologist</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/department/social-work/family-crisis-fund">Family Crisis Fund</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/department/social-work/grant-and-fic-funding">Grant and FIC Funding</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </li>
+                                                <li class="fsNavParentPage">
+                                                    <a href="/department/teaching-learning">Teaching &amp;Learning</a>
+                                                    <div class="fsNavPageInfo">
+                                                        <ul class="fsNavLevel3">
+                                                            <li>
+                                                                <a href="/department/teaching-learning/instructional-visions">Instructional Visions</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/department/teaching-learning/curriculum-resources">Curriculum Resources</a>
+                                                            </li>
+                                                            <li>
+                                                                <a href="https://www.portlandschools.org/academic-programs/language-development/lau-plan">Lau Plan</a>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </section>
+                    <section class="fsElement fsNavigation fsList mobile--schools" id="fsEl_4852" data-use-new="true">
+                        <header>
+                            <h2 class="fsElementTitle">Schools Nav</h2>
+                        </header>
+                        <div class="fsElementContent">
+                            <nav>
+                                <ul class="fsNavLevel1">
+                                    <li class="district-home">
+                                        <a href="https://www.portlandschools.org">District</a>
+                                    </li>
+                                    <li class="fsNavParentPage schools">
+                                        <a href="https://www.portlandschools.org/schools">Schools</a>
+                                        <div class="fsNavPageInfo">
+                                            <ul class="fsNavLevel2">
+                                                <li>
+                                                    <a href="https://cliff.portlandschools.org">Cliff Island School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://eastend.portlandschools.org">East End Community School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://talbot.portlandschools.org">Gerald E. Talbot Community School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://longfellow.portlandschools.org">Longfellow Elementary School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://lyseth.portlandschools.org">Lyseth Elementary School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://oceanavenue.portlandschools.org">Ocean Avenue School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://peaks.portlandschools.org">Peaks Island School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://presumpscot.portlandschools.org">Presumpscot Elementary School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://reiche.portlandschools.org">Reiche Elementary School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://rowe.portlandschools.org">Rowe Elementary School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://king.portlandschools.org">King Middle School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://lincoln.portlandschools.org">Lincoln Middle School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://moore.portlandschools.org">Moore Middle School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://cbhs.portlandschools.org">Casco Bay High School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://dhs.portlandschools.org">Deering High School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://paths.portlandschools.org">Portland Arts and Technology High School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://phs.portlandschools.org">Portland High School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandadulted.org">Portland Adult Education</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://parentu.portlandschools.org">Parent University</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </section>
+                    <section class="fsElement fsNavigation fsList mobile--utility" id="fsEl_4853" data-use-new="true">
+                        <header>
+                            <h2 class="fsElementTitle">Mobile Utility</h2>
+                        </header>
+                        <div class="fsElementContent">
+                            <nav>
+                                <ul class="fsNavLevel1">
+                                    <li class="fsNavParentPage">
+                                        <a href="/students">Students</a>
+                                        <div class="fsNavPageInfo">
+                                            <ul class="fsNavLevel2">
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/students/infinite-campus" target="_blank">
+                                                        Infinite Campus<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/students/clever-seesaw" target="_blank">
+                                                        Clever<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/students/google-classroom" target="_blank">
+                                                        Google Classroom<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/students/google-apps" target="_blank">
+                                                        Google Apps<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/students/naviance" target="_blank">
+                                                        Naviance<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/students/digital-maine-library" target="_blank">
+                                                        Digital Maine Library<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/students/scholastic-applications" target="_blank">
+                                                        Scholastic Applications<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/students/khan-academy" target="_blank">
+                                                        Khan Academy<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/students/infotrac" target="_blank">
+                                                        Infotrac<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/students/school-library-catalog" target="_blank">
+                                                        School Library Catalog<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/students/students-speak-up">Report a Concern (Speak Up)</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/students/graduation-requirements" target="_blank">
+                                                        Graduation Requirements<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/students/work-permits" target="_blank">
+                                                        Work Permits<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/students/digital-resources" target="_blank">
+                                                        Digital Resources<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="fsNavParentPage">
+                                        <a href="/families">Families</a>
+                                        <div class="fsNavPageInfo">
+                                            <ul class="fsNavLevel2">
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/families/enrollment">Enrollment</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/families/transition-to-high-school">Transitioning to High School</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/families/calendar">Calendar</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/families/infinite-campusparent-portal" target="_blank">
+                                                        Infinite Campus/Parent Portal<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/families/transportation">Transportation</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/families/meals">Meals</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/families/parent-university">Parent University</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/families/multilingual-multicultural-center">Multilingual &amp;Multicultural Center</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/families/volunteering">Volunteering</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/families/work-permits">Work Permits</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/families/learning-guides">Learning Guides</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/families/crisis-resources">Crisis Resources</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/families/mckinney-vento-program">McKinney-Vento Program</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="fsNavParentPage">
+                                        <a href="https://www.portlandschools.org/board">Board</a>
+                                        <div class="fsNavPageInfo">
+                                            <ul class="fsNavLevel2">
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/board/board-calendar">Board Calendar</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/board/board-docs" target="_blank">
+                                                        BoardDocs<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/board/board-members">Board Members</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/board/board-policies">Board Policies</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/board/board-resolutions">Board Resolutions</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/board/state-of-school-report">State of Schools Report</a>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.portlandschools.org/board/superintendent-search">Superintedent Search</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="fsNavParentPage">
+                                        <a href="/staff">Staff</a>
+                                        <div class="fsNavPageInfo">
+                                            <ul class="fsNavLevel2">
+                                                <li>
+                                                    <a href="/">Staff Hub</a>
+                                                </li>
+                                                <li>
+                                                    <a href="/staff/staff-directory">Staff Directory</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </section>
+                    <section class="fsElement fsContent mobile--translate" id="fsEl_5741" data-use-new="true">
+                        <header>
+                            <h2 class="fsElementTitle">Mobile Translate</h2>
+                        </header>
+                        <div class="fsElementContent"></div>
+                    </section>
+                </div>
+            </div>
+            <header id="fsHeader" class="fsHeader">
+                <div class=" fsBanner fsStyleAutoclear" id="fsEl_7" data-settings-id="7" data-use-new="true">
+                    <section class="fsElement fsContainer header--holder" id="fsEl_4795" data-use-new="true">
+                        <header>
+                            <h2 class="fsElementTitle">Header Holder</h2>
+                        </header>
+                        <div class="fsElementContent">
+                            <section class="fsElement fsLocationElement fsSingleItem header--logo   fsThumbnailOriginal fsThumbnailSmall" id="fsEl_4796" data-use-new="true">
+                                <header>
+                                    <h2 class="fsElementTitle">Logo</h2>
+                                </header>
+                                <div class="fsElementContent">
+                                    <article class="fsLocationSingleItem">
+                                        <div class="fsThumbnail fsThumbnailLogo">
+                                            <a class="fsLocationLink" href="https://staffhub.portlandschools.org">
+                                                <img alt="Staff Hub" data-aspect-ratio="0.9622641509433962" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1682448792/portlandschoolsorg/rsdwgf08hb8xvykmfmhi/PPS_RGB_Icon_only.eps%22,%22width%22:159}]">
+                                            </a>
+                                        </div>
+                                        <div class="fsTitle fsLocationName">
+                                            <a class="fsLocationLink" href="https://staffhub.portlandschools.org">Staff Hub</a>
+                                        </div>
+                                    </article>
+                                </div>
+                            </section>
+                            <section class="fsElement fsContainer header--right" id="fsEl_4797" data-use-new="true">
+                                <header>
+                                    <h2 class="fsElementTitle">Header Right</h2>
+                                </header>
+                                <div class="fsElementContent">
+                                    <section class="fsElement fsNavigation fsList schools--nav" id="fsEl_4798" data-use-new="true">
+                                        <header>
+                                            <h2 class="fsElementTitle">Schools Navs</h2>
+                                        </header>
+                                        <div class="fsElementContent">
+                                            <nav>
+                                                <ul class="fsNavLevel1">
+                                                    <li class="district-home">
+                                                        <a href="https://www.portlandschools.org">District</a>
+                                                    </li>
+                                                    <li class="fsNavParentPage schools">
+                                                        <a href="https://www.portlandschools.org/schools">Schools</a>
+                                                        <div class="fsNavPageInfo">
+                                                            <ul class="fsNavLevel2">
+                                                                <li>
+                                                                    <a href="https://cliff.portlandschools.org">Cliff Island School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://eastend.portlandschools.org">East End Community School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://talbot.portlandschools.org">Gerald E. Talbot Community School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://longfellow.portlandschools.org">Longfellow Elementary School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://lyseth.portlandschools.org">Lyseth Elementary School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://oceanavenue.portlandschools.org">Ocean Avenue School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://peaks.portlandschools.org">Peaks Island School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://presumpscot.portlandschools.org">Presumpscot Elementary School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://reiche.portlandschools.org">Reiche Elementary School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://rowe.portlandschools.org">Rowe Elementary School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://king.portlandschools.org">King Middle School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://lincoln.portlandschools.org">Lincoln Middle School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://moore.portlandschools.org">Moore Middle School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://cbhs.portlandschools.org">Casco Bay High School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://dhs.portlandschools.org">Deering High School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://paths.portlandschools.org">Portland Arts and Technology High School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://phs.portlandschools.org">Portland High School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandadulted.org">Portland Adult Education</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://parentu.portlandschools.org">Parent University</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </nav>
+                                        </div>
+                                    </section>
+                                    <section class="fsElement fsNavigation fsList header--utility" id="fsEl_4799" data-use-new="true">
+                                        <header>
+                                            <h2 class="fsElementTitle">Header Utility</h2>
+                                        </header>
+                                        <div class="fsElementContent">
+                                            <nav>
+                                                <ul class="fsNavLevel1">
+                                                    <li class="fsNavParentPage">
+                                                        <a href="/students">Students</a>
+                                                        <div class="fsNavPageInfo">
+                                                            <ul class="fsNavLevel2">
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/students/infinite-campus" target="_blank">
+                                                                        Infinite Campus<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/students/clever-seesaw" target="_blank">
+                                                                        Clever<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/students/google-classroom" target="_blank">
+                                                                        Google Classroom<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/students/google-apps" target="_blank">
+                                                                        Google Apps<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/students/naviance" target="_blank">
+                                                                        Naviance<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/students/digital-maine-library" target="_blank">
+                                                                        Digital Maine Library<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/students/scholastic-applications" target="_blank">
+                                                                        Scholastic Applications<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/students/khan-academy" target="_blank">
+                                                                        Khan Academy<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/students/infotrac" target="_blank">
+                                                                        Infotrac<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/students/school-library-catalog" target="_blank">
+                                                                        School Library Catalog<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/students/students-speak-up">Report a Concern (Speak Up)</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/students/graduation-requirements" target="_blank">
+                                                                        Graduation Requirements<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/students/work-permits" target="_blank">
+                                                                        Work Permits<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/students/digital-resources" target="_blank">
+                                                                        Digital Resources<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                    <li class="fsNavParentPage">
+                                                        <a href="/families">Families</a>
+                                                        <div class="fsNavPageInfo">
+                                                            <ul class="fsNavLevel2">
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/families/enrollment">Enrollment</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/families/transition-to-high-school">Transitioning to High School</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/families/calendar">Calendar</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/families/infinite-campusparent-portal" target="_blank">
+                                                                        Infinite Campus/Parent Portal<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/families/transportation">Transportation</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/families/meals">Meals</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/families/parent-university">Parent University</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/families/multilingual-multicultural-center">Multilingual &amp;Multicultural Center</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/families/volunteering">Volunteering</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/families/work-permits">Work Permits</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/families/learning-guides">Learning Guides</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/families/crisis-resources">Crisis Resources</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/families/mckinney-vento-program">McKinney-Vento Program</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                    <li class="fsNavParentPage">
+                                                        <a href="https://www.portlandschools.org/board">Board</a>
+                                                        <div class="fsNavPageInfo">
+                                                            <ul class="fsNavLevel2">
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/board/board-calendar">Board Calendar</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/board/board-docs" target="_blank">
+                                                                        BoardDocs<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/board/board-members">Board Members</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/board/board-policies">Board Policies</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/board/board-resolutions">Board Resolutions</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/board/state-of-school-report">State of Schools Report</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/board/superintendent-search">Superintedent Search</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                    <li class="fsNavParentPage">
+                                                        <a href="/staff">Staff</a>
+                                                        <div class="fsNavPageInfo">
+                                                            <ul class="fsNavLevel2">
+                                                                <li>
+                                                                    <a href="/">Staff Hub</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/staff/staff-directory">Staff Directory</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </nav>
+                                        </div>
+                                    </section>
+                                    <section class="fsElement fsContent header--translate" id="fsEl_4800" data-use-new="true">
+                                        <header>
+                                            <h2 class="fsElementTitle">Translate</h2>
+                                        </header>
+                                        <div class="fsElementContent"></div>
+                                    </section>
+                                    <section class="fsElement fsContainer search--container" id="fsEl_4802" data-use-new="true">
+                                        <header>
+                                            <h2 class="fsElementTitle">Search Container</h2>
+                                            <div class="fsElementHeaderContent">
+                                                <button class="search-trigger" value="Open Pop Up" type="button">Search Trigger</button>
+                                            </div>
+                                        </header>
+                                        <div class="fsElementContent">
+                                            <section class="fsElement fsSearchElement fsSearchForm desktop--search" id="fsEl_4834">
+                                                <header>
+                                                    <h2 class="fsElementTitle">Desktop Search</h2>
+                                                </header>
+                                                <div class="fsElementContent">
+                                                    <form action="https://staffhub.portlandschools.org/search-results" method="get" novalidate="novalidate">
+                                                        <label class="fsFieldLabel" for="fsSearchInput_4834">Search</label>
+                                                        <div class="fsSearchElementKeyword">
+                                                            <input class="fsStyleSearchField fsStyleDefaultField" id="fsSearchInput_4834" name="q" placeholder="What Are You Looking For?" type="text">
+                                                            <button aria-label="Clear" class="fsButtonClear fsStateHidden" type="reset">
+                                                                <span>Clear</span>
+                                                            </button>
+                                                        </div>
+                                                        <button class="fsSearchElementSearchButton fsStyleUpdateButton" type="submit">Search</button>
+                                                    </form>
+                                                </div>
+                                            </section>
+                                            <section class="fsElement fsNavigation fsList icons-nav" id="fsEl_4835" data-use-new="true">
+                                                <header>
+                                                    <h2 class="fsElementTitle">Icons Nav</h2>
+                                                </header>
+                                                <div class="fsElementContent">
+                                                    <nav>
+                                                        <ul class="fsNavLevel1">
+                                                            <li class="icon-check">
+                                                                <a href="https://www.portlandschools.org/staff/adp">ADP Workforce Now</a>
+                                                            </li>
+                                                            <li class="icon-teacher">
+                                                                <a href="https://ic.portlandschools.org/campus/portland.jsp" target="_blank">
+                                                                    Infinite Campus<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="icon-screens">
+                                                                <a href="https://help.portlandschools.org/" target="_blank">
+                                                                    HelpDesk Ticket System<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="icon-certificate">
+                                                                <a href="/tech-resources/staff-applications/vector">Vector - PD Training</a>
+                                                            </li>
+                                                            <li class="icon-time">
+                                                                <a href="https://www.frontlineeducation.com/signin/" target="_blank">
+                                                                    Absence &amp;Time<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                </a>
+                                                            </li>
+                                                            <li class="icon-bullhorn">
+                                                                <a href="/department/communications/newsletter-staff-bulletin-news-submission-form">Newsletter &amp;Staff Bulletin Submission Form</a>
+                                                            </li>
+                                                            <li class="icon-list">
+                                                                <a href="https://www.portlandschools.org/about/strategic-plan">Strategic Plan</a>
+                                                            </li>
+                                                            <li class="icon-group-coed">
+                                                                <a href="https://www.portlandschools.org/department/human-resources/employment">Job Opportunities </a>
+                                                            </li>
+                                                            <li class="icon-files">
+                                                                <a href="https://www.portlandschools.org/department/human-resources/collective-bargaining-agreements">Collective Bargaining Agreements</a>
+                                                            </li>
+                                                            <li class="icon-globe">
+                                                                <a href="https://drive.google.com/drive/folders/1xV1xgXEMLMRgAthZhCVHFZ-MED_vMWS-?usp=sharing" target="_blank">
+                                                                    Translation Library<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </nav>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </section>
+                                    <div class="fsElement fsNavigation fsList nav-main" id="fsEl_4801" data-use-new="true">
+                                        <div class="fsElementContent">
+                                            <nav aria-label="main">
+                                                <ul class="fsNavLevel1">
+                                                    <li class="fsNavParentPage">
+                                                        <a href="/hr-resources">HR</a>
+                                                        <div class="fsNavPageInfo">
+                                                            <ul class="fsNavLevel2">
+                                                                <li>
+                                                                    <a href="/hr-resources/benefits-leaves">Benefits &amp;Leaves</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/hr-resources/career-resources">Career Resources</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/hr-resources/new-hire-resources">New Hire Resources</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/hr-resources/forms-applications">Forms &amp;Applications</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/hr-resources/collective-bargaining-agreements">Collective Bargaining Agreements &amp;MOUs</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                    <li class="fsNavParentPage">
+                                                        <a href="/operating-procedures">Operating Procedures</a>
+                                                        <div class="fsNavPageInfo">
+                                                            <ul class="fsNavLevel2">
+                                                                <li>
+                                                                    <a href="/operating-procedures/communications-partnership-procedures">Communications &amp;Family/Community Partnership Procedures</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/operating-procedures/enrollment-procedures">Enrollment Procedures</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/operating-procedures/facilities-procedures">Facilities Procedures</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/operating-procedures/finance">Finance Procedures</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/operating-procedures/hr">HR Procedures</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/operating-procedures/technology">Technology Procedures</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/operating-procedures/transportation">Transportation Procedures</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                    <li class="fsNavParentPage">
+                                                        <a href="/tech-resources">Tech Resources</a>
+                                                        <div class="fsNavPageInfo">
+                                                            <ul class="fsNavLevel2">
+                                                                <li>
+                                                                    <a href="https://help.portlandschools.org/" target="_blank">
+                                                                        IT HelpDesk<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://ppshelpdesk.portlandschools.org:8080/ehelpdesk/login.glml" target="_blank">
+                                                                        Central Reg, Interpreters &amp;TV3<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://selfhelp.portlandschools.org/https://selfhelp.portlandschools.org/" target="_blank">
+                                                                        Self Help Portal<span class="fsStyleSROnly">(opens in new window/tab)</span>
+                                                                    </a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/tech-resources/password-portal">Change/Setup Password</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/tech-resources/staff-applications">Staff Applications</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/tech-resources/software-catalog">Software Catalog</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/tech-resources/student-data-privacy">Student Data Privacy</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                    <li class="fsNavParentPage">
+                                                        <a href="/news-calendars">News/Calendars</a>
+                                                        <div class="fsNavPageInfo">
+                                                            <ul class="fsNavLevel2">
+                                                                <li>
+                                                                    <a href="/news-calendars">District News</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/news-calendars/district-calendar">2024-2025 District Calendar</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/calendars/board-of-education-calendar">Board of Education Calendar</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="https://www.portlandschools.org/calendars/pps-community-newsletter">PPS Community Newsletter</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/news-calendars/staff-bulletin">Staff Bulletin</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                    <li class="fsNavParentPage">
+                                                        <a href="/department">Resources by Dpt</a>
+                                                        <div class="fsNavPageInfo">
+                                                            <ul class="fsNavLevel2">
+                                                                <li>
+                                                                    <a href="/department/communications">Communications</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/department/facilities-maintenance">Facilities &amp;Maintenance</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/department/mlc">Multilingual &amp;Multicultural Center</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/department/payroll">Payroll</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/department/social-work">Social Work</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/department/teaching-learning">Teaching &amp;Learning</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </nav>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section class="fsElement fsContent mobile-toggle" id="fsEl_4803" data-use-new="true">
+                                <header>
+                                    <h2 class="fsElementTitle">Mobile Menu Trigger ( don't delete )</h2>
+                                </header>
+                                <div class="fsElementContent"></div>
+                            </section>
+                        </div>
+                    </section>
+                    <section class="fsElement fsNavigation fsList nav-sub mobile-nav-sub" id="fsEl_4846" data-use-new="true">
+                        <header>
+                            <h2 class="fsElementTitle">In This Section</h2>
+                        </header>
+                        <div class="fsElementContent">
+                            <nav></nav>
+                        </div>
+                    </section>
+                    <section class="fsElement fsNavigation fsList landing-nav" id="fsEl_4847" data-use-new="true">
+                        <header>
+                            <h2 class="fsElementTitle">Landing Nav</h2>
+                        </header>
+                        <div class="fsElementContent">
+                            <nav></nav>
+                        </div>
+                    </section>
+                    <section class="fsElement fsNavigation fsBreadcrumb" id="fsEl_4848" data-use-new="true">
+                        <header>
+                            <h2 class="fsElementTitle">Breadcrumb</h2>
+                        </header>
+                        <div class="fsElementContent">
+                            <nav aria-label="breadcrumbs">
+                                <ul>
+                                    <li aria-current=location>404 - Page Not Found
+</li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </section>
+                </div>
+            </header>
+            <div id="fsPageBodyWrapper" class="fsPageBodyWrapper">
+                <div id="fsPageBody" class="fsStyleAutoclear fsPageBody">
+                    <main id="fsPageContent" class="fsPageContent">
+                        <h1 class="fsPageTitle">404 - Page Not Found</h1>
+                        <div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" id="fsEl_17198" data-use-new="true">
+                            <div class=" fsDiv fsStyleAutoclear" id="fsEl_17199">
+                                <div class="fsElement fsContent" id="fsEl_17200" data-use-new="true">
+                                    <div class="fsElementContent"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </main>
+                </div>
+            </div>
+            <footer id="fsFooter" class="fsFooter">
+                <div class=" fsBanner fsStyleAutoclear" id="fsEl_9" data-settings-id="9" data-use-new="true">
+                    <section class="fsElement fsContainer footer--top" id="fsEl_4757" data-use-new="true">
+                        <header>
+                            <h2 class="fsElementTitle">Footer Top</h2>
+                        </header>
+                        <div class="fsElementContent">
+                            <section class="fsElement fsLocationElement fsSingleItem footer--logo   fsThumbnailOriginal fsThumbnailSmall" id="fsEl_4766" data-use-new="true">
+                                <header>
+                                    <h2 class="fsElementTitle">Logo</h2>
+                                </header>
+                                <div class="fsElementContent">
+                                    <article class="fsLocationSingleItem">
+                                        <div class="fsThumbnail">
+                                            <a class="fsLocationLink" href="https://staffhub.portlandschools.org">
+                                                <img alt="Staff Hub" data-aspect-ratio="0.15653495440729484" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1651599301/portlandschoolsorg/rl8gqbzbo6icornxtofb/PPS_White_Horizontal_w_tagline-ai.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1651599301/portlandschoolsorg/rl8gqbzbo6icornxtofb/PPS_White_Horizontal_w_tagline-ai.png%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1651599301/portlandschoolsorg/rl8gqbzbo6icornxtofb/PPS_White_Horizontal_w_tagline-ai.png%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1651599301/portlandschoolsorg/rl8gqbzbo6icornxtofb/PPS_White_Horizontal_w_tagline-ai.png%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1651599301/portlandschoolsorg/rl8gqbzbo6icornxtofb/PPS_White_Horizontal_w_tagline-ai.png%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_6/v1651599301/portlandschoolsorg/rl8gqbzbo6icornxtofb/PPS_White_Horizontal_w_tagline-ai.png%22,%22width%22:2200}]">
+                                            </a>
+                                        </div>
+                                        <div class="fsTitle fsLocationName">
+                                            <a class="fsLocationLink" href="https://staffhub.portlandschools.org">Staff Hub</a>
+                                        </div>
+                                    </article>
+                                </div>
+                            </section>
+                            <section class="fsElement fsNavigation fsList nav-social" id="fsEl_4767" data-use-new="true">
+                                <header>
+                                    <h2 class="fsElementTitle">Socials</h2>
+                                </header>
+                                <div class="fsElementContent">
+                                    <nav>
+                                        <ul class="fsNavLevel1">
+                                            <li>
+                                                <a href="http://twitter.com">Twitter</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://instagram.com">Instagram</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://facebook.com">Facebook</a>
+                                            </li>
+                                            <li>
+                                                <a href="http://youtube.com">YouTube</a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </section>
+                        </div>
+                    </section>
+                    <section class="fsElement fsContainer footer--middle" id="fsEl_4758" data-use-new="true">
+                        <header>
+                            <h2 class="fsElementTitle">Footer Middle</h2>
+                        </header>
+                        <div class="fsElementContent">
+                            <section class="fsElement fsLocationElement fsSingleItem footer--school--info   fsThumbnailOriginal fsThumbnailSmall" id="fsEl_4768" data-use-new="true">
+                                <header>
+                                    <h2 class="fsElementTitle">School Info</h2>
+                                </header>
+                                <div class="fsElementContent">
+                                    <article class="fsLocationSingleItem">
+                                        <div class="fsLocationAddress fsLocationAddress-1">353 Cumberland Ave</div>
+                                        <div class="fsLocationCity">Portland</div>
+                                        <div class="fsLocationState">ME</div>
+                                        <div class="fsLocationZip">04101</div>
+                                        <div class="fsLocationPhone">
+                                            <a href="tel:207.874.8100">207.874.8100</a>
+                                        </div>
+                                    </article>
+                                </div>
+                            </section>
+                            <section class="fsElement fsNavigation fsList footer--utility" id="fsEl_4776" data-use-new="true">
+                                <header>
+                                    <h2 class="fsElementTitle">Footer Utility</h2>
+                                </header>
+                                <div class="fsElementContent">
+                                    <nav>
+                                        <ul class="fsNavLevel1">
+                                            <li>
+                                                <a href="https://www.portlandschools.org/accessibility-statement">Web Accessibility</a>
+                                            </li>
+                                            <li>
+                                                <a href="/site-map">Sitemap</a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </section>
+                        </div>
+                    </section>
+                    <section class="fsElement fsContent footer--statement" id="fsEl_4759" data-use-new="true">
+                        <header>
+                            <h2 class="fsElementTitle">Footer Statement</h2>
+                        </header>
+                        <div class="fsElementContent">
+                            <p>
+                                <a data-page-name="Non-Discrimination, Policies, Inquiries, and Complaint Procedures" href="/fs/pages/4549">Notice</a>
+                                of Non-Discrimination, Policies, Inquiries, and Complaint Procedures
+                            </p>
+                        </div>
+                    </section>
+                </div>
+            </footer>
+            <div id="fsPoweredByFinalsite" role="complementary">
+                <div>
+                    <a href="https://www.finalsite.com/districts" title="Powered by Finalsite opens in a new window" target="_blank">Powered by Finalsite</a>
+                </div>
+            </div>
+        </div>
+        <script src="/assets/application-44d1bd9e2ff4f32b203fd6431b99f94b23bd11a017fbab96b665febca6aa032b.js"></script>
+        <script src="/uploaded/themes/default_22/main.js?1725644295"></script>
+        <script src="/uploaded/themes/default_22/StaffHub.js?1725644295"></script>
+        <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8e8650542ed0de98","serverTiming":{"name":{"cfExtPri":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2024.10.5","token":"5fb20d0601a643df91b59062182249a8"}' crossorigin="anonymous"></script>
+    </body>
+</html>
